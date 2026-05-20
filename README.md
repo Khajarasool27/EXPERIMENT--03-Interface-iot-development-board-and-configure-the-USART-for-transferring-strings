@@ -119,7 +119,7 @@ int main(void)
 
     while (1)
     {
-        printf("Sara \n");
+        printf("B.Khaja Rasool \n");
         HAL_Delay(500);
     }
 }
